@@ -17,9 +17,17 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 - Standup 2: [what I did / what is next / any blocker]
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+During Sprint 1, I completed the initial planning tasks for the Personalized Skincare Ingredient Compatibility Assessment System. I added acceptance criteria to the user stories, numbered the functional and non-functional requirements, linked each user story to its related requirements, and updated the README with the project structure and roadmap.
 
 ### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+1. What went well?
+
+I successfully completed the sprint tasks and organized the project documentation. The requirements and user stories are now clearer and easier to understand.
+
+2. What was difficult?
+
+The main challenge was managing Git branches and pull requests in GitHub Codespaces, especially when handling changes and merging them into the main branch.
+
+3. What will I change next time?
+
+I will check the task instructions carefully before making changes and ensure that each task is completed and committed through the correct branch and pull request workflow.
