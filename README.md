@@ -4,7 +4,7 @@ A system that helps skincare users assess whether the ingredients in their exist
 
 ## Problem statement
 
-Skincare users may find it difficult to determine whether the ingredients in their existing skincare products are compatible with their skin conditions and personal sensitivities. Understanding ingredient lists can also be challenging due to unfamiliar scientific names and limited knowledge of their potential effects. Although existing systems have explored facial skin analysis and product recommendations, evaluating products that users already own remains a distinct need. Therefore, this system aims to assess skincare ingredient compatibility based on users' facial skin profiles and personal sensitivities, providing clear explanations to support informed decisions.
+Skincare users may struggle to assess whether ingredients in their existing products suit their skin conditions and sensitivities. Unfamiliar ingredient names can make it difficult to understand potential effects. Existing systems have explored facial skin analysis and product recommendations. However, assessing products users already own remains a distinct need. Therefore, this system assesses ingredient compatibility using facial skin profiles and personal sensitivities to support informed decisions.
 
 ## Documents
 
