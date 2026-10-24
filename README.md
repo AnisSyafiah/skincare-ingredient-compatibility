@@ -12,29 +12,8 @@ Skincare users may find it difficult to determine whether the ingredients in the
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
 
-## Project structure
-
-```text
-project/
-├── docs/
-│   ├── problem-statement.md
-│   ├── requirements.md
-│   ├── user-stories.md
-│   └── sprint-log.md
-├── src/
-│   └── README.md
-├── .gitignore
-└── README.md
-
-Roadmap
-- Define the problem statement
-- Identify functional and non-functional requirements
-- Define user stories and acceptance criteria
-- Develop the system
-- Test and evaluate the system
-
-Status
+## Status
 Planning (CSC649, Week 2)
 
-Author
+## Author
 Anis Syafiah
